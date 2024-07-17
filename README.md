@@ -20,7 +20,12 @@
 #### This project is a simple web application developed in Python and HTML that fetches and displays recent Common Vulnerabilities and Exposures (CVEs) based on a keyword search. The application uses the NVD API to retrieve CVEs and presents them in a user-friendly format using Bootstrap.
 [Project](https://github.com/csgol/ThreatFetch)
 
+----
 
+#### Python News Scraper Programs
+##### March 2024
+#### Python program that can scrape for news articles based on the entered company name utilizing the News API. Python News Scraper 2.0 is the GUI version that utilizes Flask while Python News Scraper is the terminal version of the program.
+[Project](https://github.com/csgol/news-scraper-2.0)
 
 
 
