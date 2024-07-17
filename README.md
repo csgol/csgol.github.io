@@ -1,4 +1,4 @@
-<img src="me.png" alt="me" width="400" />
+![me](./pic.png)
 # Cyber Security Graduate Student
 
 #### Technical Skills: Computer Security, IT Support, Web Development
