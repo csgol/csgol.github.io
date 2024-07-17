@@ -1,5 +1,5 @@
 title: "Hello, I'm Chris"
-#logo: /assets/mg/headshot_circle.png
+logo: /assets/mg/pic.png
 #description: text below image
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
