@@ -98,4 +98,4 @@
 
 ----
 ### My Current Setup
-![Setup](./setup.jpg)
+![Current Setup](./setup.jpg)
