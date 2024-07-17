@@ -14,6 +14,31 @@
 - Microsoft Azure Fundamentals | Issued (_December 2022_)
 - AWS Certified Cloud Practitioner | Issued (_October 2023_)            		
 
+## Work Experience
+**TDP Analyst @ Accenture (_October 2022 - Present_)**
+- Assisted with virtual machine migration processes
+- Tracked employee's migration progress, coordinated with clients and team leads while documenting technical issues 
+- Assisted with internal Sales Initiatives
+
+**Mobile Developer Internship @ Anthem, Inc. (_June 2022 - August 2022_)**
+- Assisted with the migration of mobile applications
+- Refactored and prepared application to be upgraded to the next framework version
+- Worked in agile environment with version control
+
+**Frontend Developer Internship @ Jivasoft (_June 2021 - October 2021_)**
+- Utilized React Native to assist in developing the Responder mobile application & Xtra Duty 2 Web application
+- Built various components utilizing React JS & React Native
+- Application was built to assist law enforcement with scheduling
+- Worked with software and UI/UX design principles
+
+**Compliance Inspector @ Compliance Resources, Inc. (_February 2019 - February 2020_)**
+- Inspected various sites at regular intervals to monitor the waste products produced, their volumes, and to implement possible treatment methods
+- Educated site supervisors in ensuring construction sites where following EPA & TCEQ guidelines
+- Analyzed topographic maps and engineering drawings and then translated them for readability
+- Performed internal audits on pollution prevention plan documents and created technical reports on corrective solutions for site supervisors
+- Administered the collection of samples of soil, air and water and analyzed the results to ensure compliance with the laws
+- Assisted with new employee training and site compliance inspecting
+
 ## Projects
 #### Threat Fetch
 ##### June 2024
@@ -60,4 +85,4 @@
 #### Design Project
 ##### November 2020
 #### Front-end design project utilizing HTML, CSS, and BootStrap to mimic working with a graphic design team. A fully-responsive webpage design constructed according to client specifications, as detailed in provided wireframes and styling guide.
-[RPG Game](https://github.com/csgol/Codeup-Design)
+[Design Project](https://github.com/csgol/Codeup-Design)
