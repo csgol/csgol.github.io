@@ -18,7 +18,7 @@
 #### Threat Fetch
 ##### June 2024
 #### This project is a simple web application developed in Python and HTML that fetches and displays recent Common Vulnerabilities and Exposures (CVEs) based on a keyword search. The application uses the NVD API to retrieve CVEs and presents them in a user-friendly format using Bootstrap.
-[Project]([https://github.com/username/repo](https://github.com/csgol/ThreatFetch))
+[Project](https://github.com/username/repo](https://github.com/csgol/ThreatFetch)](https://github.com/csgol/ThreatFetch)
 
 
 
