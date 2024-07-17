@@ -8,6 +8,10 @@
 - B.S., Environmental Science | The University of Texas at San Antonio (_December 2018_)
 
 ## Certifications							       		
-- CompTia Security+           		
+- CompTia Security+ | Issued (_December 2023_)
+- Google IT Support Professional Certificate | Issued (August 2023_)
+- Cisco IT Essentials | Issued (August 2023_)
+- Microsoft Azure Fundamentals | Issued (_December 2022_)
+- AWS Certified Cloud Practitioner | Issued (October 2023_)            		
 
 ## Work Experience
