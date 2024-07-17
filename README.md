@@ -45,6 +45,8 @@
 - Administered the collection of samples of soil, air and water and analyzed the results to ensure compliance with the laws
 - Assisted with new employee training and site compliance inspecting
 
+----
+
 ## Projects
 #### Threat Fetch
 ##### June 2024
