@@ -1,3 +1,4 @@
+![me](./pic.png)
 # Cyber Security Graduate Student
 
 #### Technical Skills: Computer Security, IT Support, Web Development
