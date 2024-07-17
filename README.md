@@ -12,6 +12,6 @@
 - Google IT Support Professional Certificate | Issued (_August 2023_)
 - Cisco IT Essentials | Issued (_August 2023_)
 - Microsoft Azure Fundamentals | Issued (_December 2022_)
-- AWS Certified Cloud Practitioner | Issued (October 2023_)            		
+- AWS Certified Cloud Practitioner | Issued (_October 2023_)            		
 
 ## Work Experience
