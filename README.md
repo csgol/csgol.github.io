@@ -9,9 +9,19 @@
 
 ## Certifications							       		
 - CompTia Security+ | Issued (_December 2023_)
-- Google IT Support Professional Certificate | Issued (_August 2023_)
+- Google IT Support Professional | Issued (_August 2023_)
 - Cisco IT Essentials | Issued (_August 2023_)
 - Microsoft Azure Fundamentals | Issued (_December 2022_)
 - AWS Certified Cloud Practitioner | Issued (_October 2023_)            		
 
-## Work Experience
+## Projects
+#### Threat Fetch
+##### June 2024
+#### This project is a simple web application developed in Python and HTML that fetches and displays recent Common Vulnerabilities and Exposures (CVEs) based on a keyword search. The application uses the NVD API to retrieve CVEs and presents them in a user-friendly format using Bootstrap.
+[Project]([https://github.com/username/repo](https://github.com/csgol/ThreatFetch))
+
+
+
+
+
+![EEG Band Discovery](/assets/img/test test.jpeg)
