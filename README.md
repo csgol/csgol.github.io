@@ -96,5 +96,5 @@
 [Design Project](https://github.com/csgol/Codeup-Design)
 
 ----
-
+### My Current Setup
 ![Setup Image](./setup.jpg)
