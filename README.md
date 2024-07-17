@@ -24,4 +24,4 @@
 
 
 
-![EEG Band Discovery](/assets/img/test test.jpeg)
+
