@@ -94,3 +94,7 @@
 ##### November 2020
 #### Front-end design project utilizing HTML, CSS, and BootStrap to mimic working with a graphic design team. A fully-responsive webpage design constructed according to client specifications, as detailed in provided wireframes and styling guide.
 [Design Project](https://github.com/csgol/Codeup-Design)
+
+----
+
+![Setup Image](./setup.jpg)
