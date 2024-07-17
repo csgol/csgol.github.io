@@ -2,7 +2,7 @@
 # Cyber Security Graduate Student
 
 #### Technical Skills: Computer Security, IT Support, Web Development
-#### Can View My Notes [Here](https://csgol.github.io/cybernotes/)
+#### Can View My Notes [Here](https://csgol.github.io/notes/)
 
 ----
 
