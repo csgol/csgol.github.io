@@ -3,6 +3,7 @@
 
 #### Technical Skills: Computer Security, IT Support, Web Development
 #### Can View My Notes [Here](https://csgol.github.io/notes/)
+#### Connect with me on [LinkedIn](https://www.linkedin.com/in/chrisagold/)
 
 ----
 
