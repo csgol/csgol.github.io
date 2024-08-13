@@ -51,6 +51,13 @@
 ----
 
 ## Projects
+### Cloud SOC Honeynet
+##### August 2024
+#### In this project, I created a mini honeynet in Azure and integrated log sources from various resources into a Log Analytics workspace. This workspace was then used by Microsoft Sentinel to generate attack maps, trigger alerts, and create incidents.
+[Cloud SOC Honeynet](https://github.com/csgol/Cloud-SOC-Honeynet)
+
+----
+
 ### Threat Fetch
 ##### June 2024
 #### This project is a simple web application developed in Python and HTML that fetches and displays recent Common Vulnerabilities and Exposures (CVEs) based on a keyword search. The application uses the NVD API to retrieve CVEs and presents them in a user-friendly format using Bootstrap.
