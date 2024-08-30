@@ -24,7 +24,7 @@
 ----
 
 ## Work Experience
-**TDP Analyst @ Accenture (_October 2022 - Present_)**
+**IT Analyst @ Accenture (_October 2022 - Present_)**
 - Assisted with virtual machine migration processes
 - Tracked employee's migration progress, coordinated with clients and team leads while documenting technical issues 
 - Assisted with internal Sales Initiatives
