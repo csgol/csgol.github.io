@@ -2,8 +2,9 @@
 # Cyber Security Graduate Student
 
 #### Technical Skills: Computer Security, IT Support, Web Development
-#### Can View My Notes [Here](https://csgol.github.io/notes/)
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/chrisagold/)
+#### Checkout my projects on [Github](https://github.com/csgol)
+#### Can View My Notes [Here](https://csgol.github.io/notes/)
 
 ----
 
@@ -25,28 +26,25 @@
 
 ## Work Experience
 **IT Analyst @ Accenture (_October 2022 - Present_)**
-- Assisted with virtual machine migration processes
-- Tracked employee's migration progress, coordinated with clients and team leads while documenting technical issues 
-- Assisted with internal Sales Initiatives
+- Tracked virtual machine migration progress, coordinated with clients and team leads, and documented technical issues for smooth transitions.
+- Assisted with internal Sales Initiatives to drive revenue growth and enhance client relationships. 
+- Participated in cybersecurity, DevOps, and development training to enhance technical skills and knowledge.
 
 **Mobile Developer Internship @ Anthem, Inc. (_June 2022 - August 2022_)**
-- Assisted with the migration of mobile applications
-- Refactored and prepared application to be upgraded to the next framework version
-- Worked in agile environment with version control
+- Assisted with the migration of mobile applications.
+- Refactored and prepared applications for upgrade to the next framework version.
+- Worked in an agile environment with version control to ensure seamless transitions.
 
 **Frontend Developer Internship @ Jivasoft (_June 2021 - October 2021_)**
-- Utilized React Native to assist in developing the Responder mobile application & Xtra Duty 2 Web application
-- Built various components utilizing React JS & React Native
-- Application was built to assist law enforcement with scheduling
-- Worked with software and UI/UX design principles
+- Developed components using React JS & React Native for Responder mobile app & Xtra Duty 2 Web app.
+- Collaborated on software & UI/UX design principles to enhance law enforcement scheduling.
+- Contributed to building reusable application components to streamline development.
 
 **Compliance Inspector @ Compliance Resources, Inc. (_February 2019 - February 2020_)**
-- Inspected various sites at regular intervals to monitor the waste products produced, their volumes, and to implement possible treatment methods
-- Educated site supervisors in ensuring construction sites where following EPA & TCEQ guidelines
-- Analyzed topographic maps and engineering drawings and then translated them for readability
-- Performed internal audits on pollution prevention plan documents and created technical reports on corrective solutions for site supervisors
-- Administered the collection of samples of soil, air and water and analyzed the results to ensure compliance with the laws
-- Assisted with new employee training and site compliance inspecting
+- Inspected waste products at various sites to ensure compliance with EPA & TCEQ guidelines.
+- Educated site supervisors on environmental regulations and best practices.
+- Analyzed topographic maps and engineering drawings and translated them for readability.
+- Created technical reports on pollution prevention plan audits for corrective actions.
 
 ----
 
