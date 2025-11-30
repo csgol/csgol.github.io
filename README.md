@@ -1,7 +1,7 @@
 ![me](./pic.png)
-# Cyber Security Graduate Student
+# Cyber Solutions Analyst
 
-#### Technical Skills: Computer Security, IT Support, Web Development
+#### Technical Skills: Computer Security, IT, Web Development
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/chrisagold/)
 #### Checkout my projects on [Github](https://github.com/csgol)
 #### Can View My Notes [Here](https://csgol.github.io/notes/)
@@ -25,7 +25,7 @@
 ----
 
 ## Work Experience
-**Technology Analyst @ Accenture (_October 2022 - Present_)**
+**Technology Analyst @ Accenture (_October 2022 - September 2025_)**
 - Tracked virtual machine migration progress, coordinated with clients and team leads, and documented technical issues for smooth transitions.
 - Assisted with internal Sales Initiatives to drive revenue growth and enhance client relationships. 
 - Participated in cybersecurity, DevOps, and development training to enhance technical skills and knowledge.
