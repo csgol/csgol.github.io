@@ -1,4 +1,4 @@
-![me](./pic.png)
+![me](./me.JPEG)
 # Cyber Solutions Analyst
 
 #### Technical Skills: Computer Security, IT, Web Development
