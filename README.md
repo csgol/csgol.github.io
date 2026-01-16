@@ -25,6 +25,8 @@
 ----
 
 ## Work Experience
+**Cyber Solutions Analyst @ Deloitte (_January 2026 - Current_)**
+
 **Application Engineering Analyst @ Accenture (_October 2022 - September 2025_)**
 - Tracked virtual machine migration progress, coordinated with clients and team leads, and documented technical issues for smooth transitions.
 - Assisted with internal Sales Initiatives to drive revenue growth and enhance client relationships. 
