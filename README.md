@@ -26,10 +26,14 @@
 ## Work Experience
 
 **Penetration Tester @ Deloitte (_January 2026 - Current_)**
-- Test web applications, APIs, and internal infrastructure for security weaknesses, including authorization, session handling, and access-control issues.
-- Reproduce and document findings with evidence, risk ratings, and remediation guidance for system owners and client stakeholders.
-- Correlate Nessus scan results with Splunk data and CVE references to confirm exposure, identify duplicates, and support remediation priorities.
-- Assess IBM z/OS environments and exposed mainframe services, support GoPhish simulations.
+- Test web applications, APIs, and internal infrastructure for security weaknesses, including authorization, session handling, IDOR, and access-control issues. 
+- Support red team operations and internal network penetration tests, contributing to reconnaissance, initial access, and post-exploitation activities. 
+- Built internal tooling to streamline engagement workflows, including a domain reconnaissance toolkit for vetting phishing simulation infrastructure and contributions to a Ruby/Docker automation framework that reduced manual scanning and reporting effort. 
+- Plan and support GoPhish phishing simulations, from domain selection through campaign results. 
+- Correlate Nessus scan results with Splunk data and CVE references to confirm exposure, identify duplicates, and support remediation priorities. 
+- Assess IBM z/OS environments and exposed mainframe services, mapping findings to known CVEs. 
+- Analyze third-party and client-side components for supply chain risk and validate exposed credentials against internal APIs. 
+- Reproduce and document findings with evidence, risk ratings, and remediation guidance for system owners and client stakeholders, including formal reports for various engagements.
 
 **Application Engineering Analyst @ Accenture (_October 2022 - September 2025_)**
 - Tracked virtual machine migration progress, coordinated with clients and team leads, and documented technical issues for smooth transitions.
