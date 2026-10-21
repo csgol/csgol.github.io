@@ -24,7 +24,12 @@
 ----
 
 ## Work Experience
-**Cyber Solutions Analyst @ Deloitte (_January 2026 - Current_)**
+
+**Penetration Tester @ Deloitte (_January 2026 - Current_)**
+- Test web applications, APIs, and internal infrastructure for security weaknesses, including authorization, session handling, and access-control issues.
+- Reproduce and document findings with evidence, risk ratings, and remediation guidance for system owners and client stakeholders.
+- Correlate Nessus scan results with Splunk data and CVE references to confirm exposure, identify duplicates, and support remediation priorities.
+- Assess IBM z/OS environments and exposed mainframe services, support GoPhish simulations.
 
 **Application Engineering Analyst @ Accenture (_October 2022 - September 2025_)**
 - Tracked virtual machine migration progress, coordinated with clients and team leads, and documented technical issues for smooth transitions.
