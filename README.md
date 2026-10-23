@@ -59,6 +59,41 @@
 ----
 
 ## Projects
+### c2_aws
+##### October 2026
+#### A lightweight beacon client that communicates outbound from Windows machines behind VPNs and authenticated proxies to an AWS-hosted listener.
+[c2_aws](https://github.com/csgol/c2_aws)
+
+----
+
+### Dowser
+##### September 2026
+#### Wrote a discovery/scanning tool for identifying exposed assets and services during pentesting engagements. Take a noisy list of external-facing IPs (e.g. from Censys) and produce a clean, in-scope, DNS-validated target set for an authorized engagement — by cross-checking the IPs against the organization's own DNS footprint rather than trusting a single source.
+[Dowser](https://github.com/csgol/dowser)
+
+----
+
+### airlift
+##### September 2026
+#### Developed a Python tool that bundles security tooling and dependencies into a single integrity-verified archive for offline installation on air-gapped and locked-down hosts.
+[airlift](https://github.com/csgol/airlift)
+
+----
+
+### Domain Recon
+##### August 2026
+#### Created a reconnaissance tool that enumerates subdomains, DNS records, and certificate data for external attack-surface mapping.
+[Domain Recon](https://github.com/csgol/domain-recon)
+
+----
+
+### Domainsmith
+##### August 2024
+#### Created scripts to check domain availability and reputation for authorized phishing simulations.
+[Domainsmith](https://github.com/csgol/domainsmith)
+
+----
+
 ### Cloud SOC Honeynet
 ##### August 2024
 #### In this project, I created a mini honeynet in Azure and integrated log sources from various resources into a Log Analytics workspace. This workspace was then used by Microsoft Sentinel to generate attack maps, trigger alerts, and create incidents.
