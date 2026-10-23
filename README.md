@@ -1,5 +1,5 @@
 ![me](./me.JPEG)
-# Pentester
+# Cyber Solutions Analyst
 
 #### Technical Skills: Computer Security, IT, Web Development
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/chrisagold/)
