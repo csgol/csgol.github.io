@@ -35,7 +35,7 @@
 - Analyze third-party and client-side components for supply chain risk and validate exposed credentials against internal APIs. 
 - Reproduce and document findings with evidence, risk ratings, and remediation guidance for system owners and client stakeholders, including formal reports for various engagements.
 
-**Application Engineering Analyst @ Accenture (_October 2022 - September 2025_)**
+**Technology Development Program Analyst @ Accenture (_October 2022 - September 2025_)**
 - Tracked virtual machine migration progress, coordinated with clients and team leads, and documented technical issues for smooth transitions.
 - Assisted with internal Sales Initiatives to drive revenue growth and enhance client relationships. 
 - Participated in cybersecurity, DevOps, and development training to enhance technical skills and knowledge.
